@@ -1,0 +1,2 @@
+详细参见博文
+http://www.cnblogs.com/mafly/p/slf4j.html
